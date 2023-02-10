@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin kumar</h1>
 <h3 align="center">A passionate frontend developer from India and living life with coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkumar2905&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkumar2905" /> </p>
-
 - 🔭 I’m currently working on **UTSAV**
 
 - 🌱 I’m currently learning **Python development**
