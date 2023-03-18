@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UTSAV.<br>🌱 I’m currently learning Python Development.
+🔭 I’m currently working on javascript development.<br>🌱 I’m currently learning Python Development.
 
 
 ## 🌐 Socials:
