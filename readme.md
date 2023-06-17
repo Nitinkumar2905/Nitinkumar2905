@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nitinkumar2905&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkumar2905&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitinkumar2905&bg_color=0c2958&color=db99ff&line=00fa4b&point=ff0a23&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitinkumar2905&bg_color=051b33&color=f7f7f7&line=20f005&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
